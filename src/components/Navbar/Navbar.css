@@ -1,0 +1,36 @@
+.themes{
+    display: flex;
+    justify-content: space-around;
+}
+header{
+    width: 100vw;
+}
+#nav {
+    background-color: transparent;
+    display: flex;
+    width: 100%;
+    padding: 10px;
+}
+#nav-list {
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.list-item {
+    font-size: 20px;
+    list-style: none;
+}
+#brand{
+    font-weight: bold;
+    color: #bc1b66;
+}
+#categorys {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px;
+}
+.pepepe{
+    margin: 3px
+}
