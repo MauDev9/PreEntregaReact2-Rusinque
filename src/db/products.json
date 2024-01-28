@@ -1,1 +1,137 @@
-[{"id": 0, "title": "Eco Sport", "price": 12000, "image": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ecosport/2018/showroom/3-2/2018-ecosport-showroom-3-2-1.jpg", "category": "camionetas", "stock": 3, "vendido": false},{"id": 1, "title": "Ferrari", "price": 12000, "image": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ecosport/2018/showroom/3-2/2018-ecosport-showroom-3-2-1.jpg", "category": "camionetas", "stock": 3, "vendido": false},{"id": 2, "title": "Eco Sport", "price": 12000, "image": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ecosport/2018/showroom/3-2/2018-ecosport-showroom-3-2-1.jpg", "category": "camionetas", "stock": 3, "vendido": false},{"id": 3, "title": "Moto", "price": 12000, "image": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ecosport/2018/showroom/3-2/2018-ecosport-showroom-3-2-1.jpg", "category": "camionetas", "stock": 3, "vendido": false},{"id": 4, "title": "Eco Sport", "price": 12000, "image": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ecosport/2018/showroom/3-2/2018-ecosport-showroom-3-2-1.jpg", "category": "camionetas", "stock": 3, "vendido": false},{"id": 5, "title": "Eco Sport", "price": 12000, "image": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ecosport/2018/showroom/3-2/2018-ecosport-showroom-3-2-1.jpg", "category": "camionetas", "stock": 3, "vendido": false}]
+[
+    {
+        "id": 1,
+        "title": "Moto 1",
+        "model": "Modelo A",
+        "price": 5000,
+        "category": "motos",
+        "sold": false,
+        "description": "Una moto deportiva de alta velocidad."
+    },
+    {
+        "id": 2,
+        "title": "Moto 2",
+        "model": "Modelo B",
+        "price": 6000,
+        "category": "motos",
+        "sold": false,
+        "description": "Una moto cómoda y económica para la ciudad."
+    },
+    {
+        "id": 3,
+        "title": "Moto 3",
+        "model": "Modelo C",
+        "price": 7000,
+        "category": "motos",
+        "sold": false,
+        "description": "Una moto versátil para todo tipo de terrenos."
+    },
+    {
+        "id": 4,
+        "title": "Moto 4",
+        "model": "Modelo D",
+        "price": 5500,
+        "category": "motos",
+        "sold": false,
+        "description": "Una moto clásica y elegante."
+    },
+    {
+        "id": 5,
+        "title": "Moto 5",
+        "model": "Modelo E",
+        "price": 6500,
+        "category": "motos",
+        "sold": true,
+        "description": "Una moto todoterreno para la aventura."
+    },
+    {
+        "id": 6,
+        "title": "Camioneta 1",
+        "model": "Modelo F",
+        "price": 25000,
+        "category": "camionetas",
+        "sold": false,
+        "description": "Una camioneta robusta y confiable."
+    },
+    {
+        "id": 7,
+        "title": "Camioneta 2",
+        "model": "Modelo G",
+        "price": 30000,
+        "category": "camionetas",
+        "sold": false,
+        "description": "Una camioneta espaciosa y cómoda para la familia."
+    },
+    {
+        "id": 8,
+        "title": "Camioneta 3",
+        "model": "Modelo H",
+        "price": 35000,
+        "category": "camionetas",
+        "sold": false,
+        "description": "Una camioneta todoterreno para la aventura."
+    },
+    {
+        "id": 9,
+        "title": "Camioneta 4",
+        "model": "Modelo I",
+        "price": 28000,
+        "category": "camionetas",
+        "sold": false,
+        "description": "Una camioneta elegante y potente."
+    },
+    {
+        "id": 10,
+        "title": "Camioneta 5",
+        "model": "Modelo J",
+        "price": 32000,
+        "category": "camionetas",
+        "sold": true,
+        "description": "Una camioneta deportiva y lujosa."
+    },
+    {
+        "id": 11,
+        "title": "Deportivo 1",
+        "model": "Modelo K",
+        "price": 70000,
+        "category": "deportivos",
+        "sold": false,
+        "description": "Un deportivo ágil y potente."
+    },
+    {
+        "id": 12,
+        "title": "Deportivo 2",
+        "model": "Modelo L",
+        "price": 80000,
+        "category": "deportivos",
+        "sold": false,
+        "description": "Un deportivo elegante y deportivo."
+    },
+    {
+        "id": 13,
+        "title": "Deportivo 3",
+        "model": "Modelo M",
+        "price": 90000,
+        "category": "deportivos",
+        "sold": false,
+        "description": "Un deportivo de lujo y alto rendimiento."
+    },
+    {
+        "id": 14,
+        "title": "Deportivo 4",
+        "model": "Modelo N",
+        "price": 75000,
+        "category": "deportivos",
+        "sold": true,
+        "description": "Un deportivo con estilo y velocidad."
+    },
+    {
+        "id": 15,
+        "title": "Deportivo 5",
+        "model": "Modelo O",
+        "price": 85000,
+        "category": "deportivos",
+        "sold": false,
+        "description": "Un deportivo aerodinámico y elegante."
+    }
+]

@@ -1,0 +1,35 @@
+#allCars {
+    display: flex;
+    flex-wrap: wrap;
+    ;
+
+    .car {
+        width: 250px;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        padding: 10px;
+        margin: 20px;
+        border-radius: 10px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+        .disponible {
+            font-weight: bold;
+            color: rgb(0, 255, 42);
+        }
+
+        .vendido {
+            font-weight: bold;
+            color: rgb(255, 53, 42);
+        }
+
+        .product-detail {
+            font-weight: bold;
+            font-size: 17px;
+            ;
+        }
+    }
+}
