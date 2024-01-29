@@ -1,4 +1,4 @@
-.car {
+.product-card {
     width: 300px;
     height: 400px;
     display: flex;
@@ -8,7 +8,10 @@
     padding: 10px;
     margin: 20px;
     border-radius: 10px;
-    background-color: #fff;
+    color: #fff;
+    font-weight: bold;
+    background: transparent;
+    border: 3px solid #1c1c1c;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 
     .disponible {

@@ -14,18 +14,16 @@ export default function Navbar() {
   return (
     <header>
       <nav id='nav'>
-        <h1 id='brand'>Mercado Liebre</h1>
+        <h1 id='brand'>Rusinq's</h1>
         <ul id='nav-list'>
           <li className='list-item'><Link to='/home'>Home</Link></li>
-          <li className='list-item'><Link to='/products'>Products</Link></li>
         </ul>
-
         <div>
           <button onClick={toggleMenuVisibility} id="open">Categorys</button>
           <div ref={menu} className='hidden'>
-            <Link to="/products/camionetas"><p>Camionetas</p></Link>
-            <Link to="/products/deportivos"><p>Deportivos</p></Link>
-            <Link to="/products/motos"><p>Motocicletas</p></Link>
+            <Link to="/products/gorras"><p>Gorras</p></Link>
+            <Link to="/products/remeras"><p>Remeras</p></Link>
+            <Link to="/products/lentes"><p>Lentes</p></Link>
           </div>
         </div>
       </nav>

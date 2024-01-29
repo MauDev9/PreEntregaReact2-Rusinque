@@ -1,137 +1,92 @@
 [
     {
         "id": 1,
-        "title": "Moto 1",
+        "title": "Gorra 1",
         "model": "Modelo A",
-        "price": 5000,
-        "category": "motos",
+        "price": 20,
+        "img":"../assets/products/grrr.jpeg",
+        "category": "gorras",
         "sold": false,
-        "description": "Una moto deportiva de alta velocidad."
+        "description": "Una gorra deportiva de alta calidad."
     },
     {
         "id": 2,
-        "title": "Moto 2",
+        "title": "Gorra 2",
         "model": "Modelo B",
-        "price": 6000,
-        "category": "motos",
+        "price": 15,
+        "img":"../../../assets/products/gorra3.jpeg",
+        "category": "gorras",
         "sold": false,
-        "description": "Una moto cómoda y económica para la ciudad."
+        "description": "Una gorra casual y cómoda para el día a día."
     },
     {
         "id": 3,
-        "title": "Moto 3",
+        "title": "Gorra 3",
         "model": "Modelo C",
-        "price": 7000,
-        "category": "motos",
+        "price": 25,
+        "img":"../assets/products/gorra.jpeg",
+        "category": "gorras",
         "sold": false,
-        "description": "Una moto versátil para todo tipo de terrenos."
+        "description": "Una gorra elegante para ocasiones especiales."
     },
     {
         "id": 4,
-        "title": "Moto 4",
+        "title": "Lentes 1",
         "model": "Modelo D",
-        "price": 5500,
-        "category": "motos",
+        "price": 50,
+        "img":"../../../assets/products/lentes1.png",
+        "category": "lentes",
         "sold": false,
-        "description": "Una moto clásica y elegante."
+        "description": "Lentes de sol de alta protección y estilo."
     },
     {
         "id": 5,
-        "title": "Moto 5",
+        "title": "Lentes 2",
         "model": "Modelo E",
-        "price": 6500,
-        "category": "motos",
+        "price": 40,
+        "img":"../../../assets/products/lentes.jpeg",
+        "category": "lentes",
         "sold": true,
-        "description": "Una moto todoterreno para la aventura."
+        "description": "Lentes de lectura elegantes y prácticos."
     },
     {
         "id": 6,
-        "title": "Camioneta 1",
+        "title": "Lentes 3",
         "model": "Modelo F",
-        "price": 25000,
-        "category": "camionetas",
+        "price": 60,
+        "img":"lentes2.jpeg",
+        "category": "lentes",
         "sold": false,
-        "description": "Una camioneta robusta y confiable."
+        "description": "Lentes de moda para completar tu look."
     },
     {
         "id": 7,
-        "title": "Camioneta 2",
+        "title": "Remera 1",
         "model": "Modelo G",
-        "price": 30000,
-        "category": "camionetas",
+        "price": 25,
+        "img":"../assets/products/img1.jpeg",
+        "category": "remeras",
         "sold": false,
-        "description": "Una camioneta espaciosa y cómoda para la familia."
+        "description": "Una remera cómoda y fresca para el verano."
     },
     {
         "id": 8,
-        "title": "Camioneta 3",
+        "title": "Remera 2",
         "model": "Modelo H",
-        "price": 35000,
-        "category": "camionetas",
-        "sold": false,
-        "description": "Una camioneta todoterreno para la aventura."
+        "price": 30,
+        "img":"../assets/products/images.jpeg",
+        "category": "remeras",
+        "sold": true,
+        "description": "Una remera estampada con diseño único."
     },
     {
         "id": 9,
-        "title": "Camioneta 4",
+        "title": "Remera 3",
         "model": "Modelo I",
-        "price": 28000,
-        "category": "camionetas",
+        "price": 35,
+        "img":"../assets/products/images2.jpeg",
+        "category": "remeras",
         "sold": false,
-        "description": "Una camioneta elegante y potente."
-    },
-    {
-        "id": 10,
-        "title": "Camioneta 5",
-        "model": "Modelo J",
-        "price": 32000,
-        "category": "camionetas",
-        "sold": true,
-        "description": "Una camioneta deportiva y lujosa."
-    },
-    {
-        "id": 11,
-        "title": "Deportivo 1",
-        "model": "Modelo K",
-        "price": 70000,
-        "category": "deportivos",
-        "sold": false,
-        "description": "Un deportivo ágil y potente."
-    },
-    {
-        "id": 12,
-        "title": "Deportivo 2",
-        "model": "Modelo L",
-        "price": 80000,
-        "category": "deportivos",
-        "sold": false,
-        "description": "Un deportivo elegante y deportivo."
-    },
-    {
-        "id": 13,
-        "title": "Deportivo 3",
-        "model": "Modelo M",
-        "price": 90000,
-        "category": "deportivos",
-        "sold": false,
-        "description": "Un deportivo de lujo y alto rendimiento."
-    },
-    {
-        "id": 14,
-        "title": "Deportivo 4",
-        "model": "Modelo N",
-        "price": 75000,
-        "category": "deportivos",
-        "sold": true,
-        "description": "Un deportivo con estilo y velocidad."
-    },
-    {
-        "id": 15,
-        "title": "Deportivo 5",
-        "model": "Modelo O",
-        "price": 85000,
-        "category": "deportivos",
-        "sold": false,
-        "description": "Un deportivo aerodinámico y elegante."
+        "description": "Una remera de algodón suave y duradera."
     }
 ]
